@@ -1,4 +1,4 @@
-# Smart iot street light for energy efficiency and safety
+# Smart iot street light 
 the street lights are LED to save energy
 consist of camera and panic button for safety
 sensors used - LDR, IR, camera
