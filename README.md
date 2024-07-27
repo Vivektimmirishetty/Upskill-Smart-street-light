@@ -126,7 +126,7 @@ Feel free to fork this repository, submit issues, and send pull requests. Any co
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Happy coding and enjoy creating your Smart Lighting and Detection System! If you have any questions or need further assistance, please open an issue or contact me at your-email@example.com.
+Happy coding and enjoy creating your Smart Lighting and Detection System! If you have any questions or need further assistance, please open an issue or contact me.
 
 Contact
 Author: Timmirishetty Vivek
